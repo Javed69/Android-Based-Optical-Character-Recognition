@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028317305328",
+    "project_id": "android-based-ocr",
+    "storage_bucket": "android-based-ocr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028317305328:android:9c4a9029a1a6f73339e535",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028317305328-qsjl283t9rk0f9mivfrp7khuft4qghvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn7H1xwwaD7m8Qer5FOCUrYz4d939LQpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028317305328-qsjl283t9rk0f9mivfrp7khuft4qghvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
